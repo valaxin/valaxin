@@ -1,3 +1,3 @@
 # 👋
 
-I build and fix, digital and electronic things
+I build and fix things using computers.
